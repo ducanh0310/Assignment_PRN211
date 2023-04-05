@@ -1,0 +1,68 @@
+﻿@using AutomobileWebApp.Models;
+
+<html>
+	<head>
+	</head>
+
+		<body>
+			
+			<form action="/Car/DoEdit" method="post">
+
+
+				<table>
+					<tr>
+						<td>Id</td>
+						<td><input type="text" value="@ViewBag.car.CarId" name="id" readonly=""></td>
+					</tr>
+					<tr>
+						<td>Name</td>
+						<td><input type="text" value="@ViewBag.car.CarName" name="name"></td>
+					</tr>
+
+					<tr>
+						<td>Manufacture</td>
+						<td>
+							<select name="manufacture">
+								<option name="manufacture" value="Audi">Audi</option>
+								<option name="manufacture" value="BMW">BMW</option>
+								<option name="manufacture" value="Ford">Ford</option>
+								<option name="manufacture" value="Honda">Honda</option>
+								<option name="manufacture" value="Hyundai">Hyundai</option>
+								<option name="manufacture" value="Kia">Kia</option>
+								<option name="manufacture" value="Suzuki">Suzuki</option>
+								<option name="manufacture" value="Toyota">Toyota</option>
+							</select>
+						</td>
+					</tr>
+
+					<tr>
+						<td>Price</td>
+						<td>	<input type="text" value="@ViewBag.car.Price" name="price"></td>
+					</tr>
+
+					<tr>
+						<td>Released Year</td>
+						<td>	<input type="text" value="@ViewBag.car.ReleasedYear" name="year"></td>
+					</tr>
+
+					<tr>
+						<td>	<input type="submit" name="ok" value="Update"><a href="List">Home</a></td>
+						
+					</tr>
+
+
+				</table>
+
+		@ViewBag.msg
+				
+				
+				
+			
+			
+
+			</form>
+
+		</body>
+
+
+</html>

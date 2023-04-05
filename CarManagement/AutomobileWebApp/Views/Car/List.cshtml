@@ -1,0 +1,47 @@
+﻿@using AutomobileWebApp.Models;
+
+<html>
+	<head>
+	</head>
+	
+		<body>
+			<h2>
+				List Car
+			</h2>
+
+			<table border = "1">
+				<tr>	
+					<th>ID</th>
+					<th>Name</th>
+					<th>Manufacture</th>
+					<th>Price</th>
+					<th>ReleasedYear</th>
+				</tr>
+
+			@foreach(Car item in ViewBag.list)
+			{
+				<tr>
+					<td>@item.CarId</td>
+					<td>@item.CarName</td>
+					<td>@item.Manufacturer</td>
+					<td>@item.Price</td>
+					<td>@item.ReleasedYear</td>
+					<td>
+						<a href="/Car/Delete?id=@item.CarId">Delete</a>
+					</td>
+					<td>
+						<a href="/Car/Edit?id=@item.CarId">Update</a>
+					</td>
+						
+				</tr>
+			}
+
+
+
+			</table>
+
+			<a href="/Car/Add">Add</a>
+		</body>
+
+
+</html>

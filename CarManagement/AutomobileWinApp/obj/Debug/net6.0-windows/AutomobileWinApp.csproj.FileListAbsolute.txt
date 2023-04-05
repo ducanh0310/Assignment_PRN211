@@ -1,0 +1,303 @@
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.csproj.AssemblyReference.cache
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.frmCarDetails.resources
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.frmCarManagement.resources
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.csproj.GenerateResource.cache
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.AssemblyInfoInputs.cache
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.AssemblyInfo.cs
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.csproj.CoreCompileInputs.cache
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.exe
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\appsettings.json
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.deps.json
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.runtimeconfig.json
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.pdb
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\Azure.Core.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileLibrary.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileLibrary.pdb
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.csproj.CopyComplete
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\obj\Debug\net6.0-windows\refint\AutomobileWinApp.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.pdb
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.genruntimeconfig.cache
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileWinApp\obj\Debug\net6.0-windows\ref\AutomobileWinApp.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.exe
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\appsettings.json
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.deps.json
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.runtimeconfig.json
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.pdb
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileLibrary.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileLibrary.pdb
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.csproj.AssemblyReference.cache
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.frmCarDetails.resources
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.frmCarManagement.resources
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.csproj.GenerateResource.cache
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.AssemblyInfoInputs.cache
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.AssemblyInfo.cs
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.csproj.CoreCompileInputs.cache
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.csproj.CopyComplete
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\obj\Debug\net6.0-windows\refint\AutomobileWinApp.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.pdb
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.genruntimeconfig.cache
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileWinApp\obj\Debug\net6.0-windows\ref\AutomobileWinApp.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.exe
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.deps.json
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.runtimeconfig.json
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.pdb
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileLibrary.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileLibrary.pdb
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.csproj.AssemblyReference.cache
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.frmCarDetails.resources
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.frmCarManagement.resources
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.csproj.GenerateResource.cache
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.AssemblyInfoInputs.cache
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.AssemblyInfo.cs
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.csproj.CoreCompileInputs.cache
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.csproj.CopyComplete
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\obj\Debug\net6.0-windows\refint\AutomobileWinApp.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.pdb
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.genruntimeconfig.cache
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileWinApp\obj\Debug\net6.0-windows\ref\AutomobileWinApp.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.exe
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.deps.json
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.runtimeconfig.json
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.pdb
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileLibrary.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileLibrary.pdb
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.csproj.AssemblyReference.cache
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.frmCarDetails.resources
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.frmCarManagement.resources
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.csproj.GenerateResource.cache
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.AssemblyInfoInputs.cache
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.AssemblyInfo.cs
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.csproj.CoreCompileInputs.cache
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.csproj.CopyComplete
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\refint\AutomobileWinApp.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.pdb
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.genruntimeconfig.cache
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\ref\AutomobileWinApp.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.exe
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileLibrary.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileLibrary.pdb
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.csproj.AssemblyReference.cache
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.frmCarDetails.resources
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.frmCarManagement.resources
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.frmLogin.resources
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.Properties.Resources.resources
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.csproj.GenerateResource.cache
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.AssemblyInfoInputs.cache
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.AssemblyInfo.cs
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.csproj.CoreCompileInputs.cache
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\refint\AutomobileWinApp.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.pdb
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.deps.json
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.runtimeconfig.json
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.pdb
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.csproj.CopyComplete
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.genruntimeconfig.cache
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\ref\AutomobileWinApp.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.exe
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.deps.json
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.runtimeconfig.json
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.pdb
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileLibrary.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileLibrary.pdb
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.frmCarDetails.resources
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.frmCarManagement.resources
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.frmLogin.resources
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.csproj.CopyComplete
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\refint\AutomobileWinApp.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.pdb
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.genruntimeconfig.cache
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileWinApp\obj\Debug\net6.0-windows\ref\AutomobileWinApp.dll

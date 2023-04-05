@@ -1,0 +1,72 @@
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.deps.json
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.pdb
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.AssemblyReference.cache
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfoInputs.cache
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfo.cs
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\refint\AutomobileLibrary.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.pdb
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\ref\AutomobileLibrary.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.deps.json
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.pdb
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.AssemblyReference.cache
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfoInputs.cache
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfo.cs
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileLibrary\obj\Debug\net6.0\refint\AutomobileLibrary.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.pdb
+D:\VisualStudio_SourceCode\FPT_Source C#\Automation_2\lab2\AutomobileLibrary\obj\Debug\net6.0\ref\AutomobileLibrary.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.deps.json
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.pdb
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.AssemblyReference.cache
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfoInputs.cache
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfo.cs
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileLibrary\obj\Debug\net6.0\refint\AutomobileLibrary.dll
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.pdb
+C:\Users\choip\Downloads\prn211-sample-code\lab2\CarManagement_Using_ADO.NET-main\AutomobileLibrary\obj\Debug\net6.0\ref\AutomobileLibrary.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.deps.json
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.pdb
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.AssemblyReference.cache
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfoInputs.cache
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfo.cs
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileLibrary\obj\Debug\net6.0\refint\AutomobileLibrary.dll
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.pdb
+C:\Users\choip\Downloads\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileLibrary\obj\Debug\net6.0\ref\AutomobileLibrary.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.deps.json
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.pdb
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.AssemblyReference.cache
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfoInputs.cache
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfo.cs
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileLibrary\obj\Debug\net6.0\refint\AutomobileLibrary.dll
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.pdb
+C:\Users\choip\Documents\DO\Learn\Sementic_5\PRN211\prn211-lab02-automobile-project-400k\CarManagement_Using_ADO.NET\AutomobileLibrary\obj\Debug\net6.0\ref\AutomobileLibrary.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.deps.json
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.pdb
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfo.cs
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileLibrary\obj\Debug\net6.0\refint\AutomobileLibrary.dll
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.pdb
+C:\Users\DELL\Desktop\New folder\PRN211\CarManagement_Using_ADO.NET\AutomobileLibrary\obj\Debug\net6.0\ref\AutomobileLibrary.dll

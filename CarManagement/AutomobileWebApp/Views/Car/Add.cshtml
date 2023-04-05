@@ -1,0 +1,77 @@
+﻿@using AutomobileWebApp.Models;
+@model Car
+<html>
+	<head>
+	</head>
+
+		<body>
+
+			<form action="/Car/DoAdd" method="post">
+
+
+				<table>
+					<tr>
+						<td>ID</td>
+						<td><input type="text" name="id"></td>
+					</tr>
+					<tr>
+						<td>Name</td>
+						<td><input type="text" name="name"></td>
+					</tr>
+
+					<tr>
+						<td>Manufacture</td>
+						
+						<td>
+							<select name="manufacture">
+								<option name="manufacture" value="Audi">Audi</option>
+								<option name="manufacture" value="BMW">BMW</option>
+								<option name="manufacture" value="Ford">Ford</option>
+								<option name="manufacture" value="Honda">Honda</option>
+								<option name="manufacture" value="Hyundai">Hyundai</option>
+								<option name="manufacture" value="Kia">Kia</option>
+								<option name="manufacture" value="Suzuki">Suzuki</option>
+								<option name="manufacture" value="Toyota">Toyota</option>
+							</select>
+						</td>
+					</tr>
+
+					<tr>
+						<td>Price</td>
+						<td>	<input type="text"  name="price"></td>
+					</tr>
+
+					<tr>
+						<td>Released Year</td>
+						<td>	<input type="text" name="year"></td>
+					</tr>
+
+					<tr>
+						<td>	<input type="submit" name="ok" value="Add">  <a href="List">Home</a> </td>
+
+					</tr>
+					
+					
+
+
+				</table>
+
+				
+			
+						@ViewBag.msg
+
+					
+
+
+
+
+
+
+
+
+			</form>
+
+		</body>
+
+
+</html>
